@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(33, 121, 180);
+    text-align: center;
+}
+section{
+    background-color: #fff;
+    width: 500px;
+    height: 250px;
+    border-radius: 10px;
+    margin: auto;
+    
+}
+input{
+    text-align: initial;
+    padding: 5px;
+    margin: 10px;
+    
+}
